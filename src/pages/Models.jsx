@@ -15,6 +15,7 @@ function Models({ items }) {
                 'arrows',
                 'infinite',
                 'centered',
+                'fastSwipe',
                 {
                   resolve: slidesToShowPlugin,
                   options: {
