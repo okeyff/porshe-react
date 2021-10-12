@@ -1,0 +1,8 @@
+{
+    "short_name": "Porshe 911 Targa 4S",
+    "name": "Porshe 911 Targa 4S",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}

@@ -1,0 +1,57 @@
+{
+    "cars": [{
+            "id": 0,
+            "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/992-c2s-modelimage-sideshot/model/b70ce2b2-d97f-11eb-80d9-005056bbdc38;sR;twebp065/porsche-model.webp",
+            "name": "911 Carrera S",
+            "price": 117.100,
+            "power": 443,
+            "seconds": 3.5,
+            "maxSpeed": 191
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/992-c2scab-modelimage-sideshot/model/ed6c3389-d97f-11eb-80d9-005056bbdc38;sR;twebp065/porsche-model.webp",
+            "name": "911 Carrera S Cabriolet",
+            "price": 129.900,
+            "power": 443,
+            "seconds": 3.7,
+            "maxSpeed": 190
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/992-c4s-modelimage-sideshot/model/81aa937b-d980-11eb-80d9-005056bbdc38;sR;twebp065/porsche-model.webp",
+            "name": "911 Carrera 4S",
+            "price": 124.400,
+            "power": 443,
+            "seconds": 3.4,
+            "maxSpeed": 190
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/992-ta4-modelimage-sideshot/model/7bc8bfe0-d983-11eb-80d9-005056bbdc38;sR;twebp065/porsche-model.webp",
+            "name": "911 Targa 4",
+            "price": 121.300,
+            "power": 379,
+            "seconds": 4.2,
+            "maxSpeed": 179
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/992-c2-gts-modelimage-sideshot/model/b426ede0-d31e-11eb-80d9-005056bbdc38;sR;twebp065/porsche-model.webp",
+            "name": "911 Carrera GTS",
+            "price": 136.700,
+            "power": 473,
+            "seconds": 3.2,
+            "maxSpeed": 193
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/992-ta4-gts-modelimage-sideshot/model/fc3d2747-d31e-11eb-80d9-005056bbdc38;sR;twebp065/porsche-model.webp",
+            "name": "911 Targa 4 GTS",
+            "price": 156.800,
+            "power": 473,
+            "seconds": 3.3,
+            "maxSpeed": 190
+        }
+    ]
+}
